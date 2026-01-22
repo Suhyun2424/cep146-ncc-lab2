@@ -1,19 +1,18 @@
-# My Course Portfolio
- 
-Welcome to my academic portfolio for (put your course name and section here)!
- 
-## About Me
-- Name: (put your name here)
-- Program: (put your program name here)
-- Year: (put your academic year and semester here)
-- Favorite Programming Language: (put your choice here)
- 
-## Course Goals
-- [ ] Learn version control with Git and GitHub
-- [ ] Complete all lab assignments
-- [ ] Build a professional portfolio
-- [ ] Collaborate on group projects
- 
-## Projects
-*This section will be updated as I complete assignments*
+# Study Resources
+## Useful Websites
+* [GitHub Docs] (https://docs.github.com/)
+* [Markdown Guide] (https://www.markdownguide.org/)
+* [Git Handbook] (https://guides.github.com/introduction/git-handbook/)
+
+## Tools I Use
+* Windows Notepad, Notepad++
+* Google Chrome, Safari, Microsoft Edge
+* Outline Method, Charting Method
+
+## Class Schedule
+|day of a week   |starting time   |name of lecture     | 
+|----------------|----------------|--------------------|
+|thursday        |8:00am          |CEP146Lecture       |
+|thursday        |10:45am         |OPS102Lab           |
+|Friday          |11:40am         |IPC144 Lab          |
  

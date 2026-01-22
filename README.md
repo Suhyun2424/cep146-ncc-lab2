@@ -5,9 +5,9 @@
 * [Git Handbook] (https://guides.github.com/introduction/git-handbook/)
 
 ## Tools I Use
-* Windows Notepad, Notepad++
-* Google Chrome, Safari, Microsoft Edge
-* Outline Method, Charting Method
+* Text Editors: Windows Notepad, Notepad++
+* Browsers: Google Chrome, Safari, Microsoft Edge
+* Note-Taking Methods: Outline Method, Charting Method
 
 ## Class Schedule
 |day of a week   |starting time   |name of lecture     | 
